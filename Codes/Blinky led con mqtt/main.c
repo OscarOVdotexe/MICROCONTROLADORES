@@ -1,3 +1,8 @@
+/*
+OSCAR OVALLES VELOZ 2019-8238
+THAYS NIVAR 2022-0459
+DEVIDSON MATOS 2019-8286
+*/
 #include <stdio.h>
 #include <stdint.h>
 #include <stddef.h>
